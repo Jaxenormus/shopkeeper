@@ -1,5 +1,7 @@
 # Shopkeeper
 
+![license](https://img.shields.io/github/license/calebdelbridge/shopkeeper?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/CalebDelbridge/shopkeeper?style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/CalebDelbridge/shopkeeper?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/CalebDelbridge/shopkeeper?style=for-the-badge)
+
 #### Description of project
 
 Shopkeeper is a discord bot that provides a simple to use shopping system so customers can easily view and purchase various products from multiple sellers.
