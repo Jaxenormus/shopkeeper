@@ -1,6 +1,7 @@
 # Shopkeeper
 
 ![license](https://img.shields.io/github/license/calebdelbridge/shopkeeper?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/calebdelbridge/shopkeeper?style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/calebdelbridge/shopkeeper?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/calebdelbridge/shopkeeper?style=for-the-badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCalebDelbridge%2Fshopkeeper.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCalebDelbridge%2Fshopkeeper?ref=badge_shield)
 
 #### Description of project
 
@@ -23,3 +24,7 @@ Yes! Shopkeeper does work and was fully completed to my liking solving the main 
 #### Self Hosting
 
 This project can be self-hosted by anyone with basic javascript programming skills. Shopkeeper uses a MongoDB database along with mongoose to keep all its data.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCalebDelbridge%2Fshopkeeper.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCalebDelbridge%2Fshopkeeper?ref=badge_large)
