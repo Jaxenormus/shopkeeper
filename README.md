@@ -1,6 +1,6 @@
 # Shopkeeper
 
-![license](https://img.shields.io/github/license/calebdelbridge/shopkeeper?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/calebdelbridge/shopkeeper?style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/calebdelbridge/shopkeeper?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/calebdelbridge/shopkeeper?style=for-the-badge)
+![license](https://img.shields.io/badge/license-Creative%20Commons%20Attribution%20NC--SA%204.0-blue?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/calebdelbridge/shopkeeper?style=for-the-badge) ![GitHub watchers](https://img.shields.io/github/watchers/calebdelbridge/shopkeeper?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/calebdelbridge/shopkeeper?style=for-the-badge)
 
 #### Description of project
 
