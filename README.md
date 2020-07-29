@@ -22,4 +22,4 @@ Yes! Shopkeeper does work and was fully completed to my liking solving the main 
 
 #### Self Hosting
 
-This project can be self-hosted by anyone with basic javascript programming skills. Shopkeeper uses a MongoDB database along with mongoose to keep all its data.
+This project can be self-hosted to **only** be used as a private bot you **cannot provide a public instnace** of this bot. Shopkeeper uses a MongoDB database along with mongoose to keep all its data you can use Atlas or spin up your own mongodb server.
