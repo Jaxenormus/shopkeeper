@@ -1,0 +1,17 @@
+{
+  "token": "YOUR_BOT_TOKEN",
+  "mongoDBURI": "YOUR_MONGO_DB_URI_HERE",
+  "guildID": "YOUR_GUILD_ID_HERE",
+  "sellerRoleID": "THE_SELLER_ROLE",
+  "archiveParentID": "THE_ARCHIVE_CATEGORY_ID",
+  "embedColor": {
+    "cart": "#baf6c0",
+    "productDisplay": "#baf6c0",
+    "cancel": "#E74C3C",
+    "error": "#E74C3C",
+    "success": "#34eb52",
+    "processingOrder": "#E91E63",
+    "review": "#E91E63"
+  },
+  "reviewChannel": "THE_REVIEW_CHANNEL_ID"
+}
